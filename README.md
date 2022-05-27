@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Deployed_App](https://62904acd8824b94e2db74232--incredible-dasik-7aa5ed.netlify.app/)
 
+![React-app](https://user-images.githubusercontent.com/83270390/170626541-fef54606-ea5d-410d-9fae-f7461bfde5b4.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
